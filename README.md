@@ -1,53 +1,160 @@
-# -OIBSIP
-# Data Science Internship
+OIBSIP
 
-This repository contains the projects completed as part of my **Data Science Internship**. The projects cover data analysis, visualization, machine learning, and predictive modeling using Python.
+Data Science Internship Projects
 
-## Completed Tasks
+This repository contains the projects completed as part of my Data Science Internship at Oasis Infobyte (OIBSIP).
 
-### Task 1 — Iris Flower Classification
+The projects cover different areas of Data Science, including data analysis, machine learning, regression, classification, and natural language processing.
 
-* Dataset: Iris Flower Dataset
-* Performed data preprocessing and exploratory data analysis.
-* Visualized species distribution and relationships between features.
-* Built classification models to predict the iris species.
-* Evaluated model performance using appropriate classification metrics.
+---
 
-### Task 2 — Unemployment Analysis with Python
+📌 Projects
 
-* Dataset: Unemployment in India
-* Cleaned and prepared the dataset for analysis.
-* Performed exploratory data analysis on unemployment trends.
-* Analyzed unemployment rates across different regions and time periods.
-* Created visualizations to identify important patterns and trends.
+🔹 Task 1 – Iris Flower Classification
 
-### Task 3 — Car Price Prediction
+A machine learning classification project using the Iris dataset to classify flowers into their respective species.
 
-* Dataset: Car Dekho Used Cars Dataset
-* Performed data cleaning and feature engineering.
-* Created features such as **Car Age** and **Brand**.
-* Conducted exploratory data analysis and visualization.
-* Applied one-hot encoding to categorical features.
-* Split the data into training and testing sets.
-* Built and compared:
+Key Concepts:
 
-  * Linear Regression
-  * Random Forest Regressor
-* Evaluated the models using **MAE, RMSE, and R² score**.
-* Compared actual and predicted car prices and analyzed feature importance.
+- Data Exploration
+- Data Visualization
+- Feature Selection
+- Classification
+- Model Evaluation
 
-## Technologies Used
+Notebook: "46(1)Iris_Flower_Classification.ipynb"
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Google Colab
-* Jupyter Notebook
+---
 
-## Conclusion
+🔹 Task 2 – Unemployment Analysis with Python
 
-Through these three projects, I gained practical experience in **data preprocessing, exploratory data analysis, data visualization, feature engineering, machine learning, and model evaluation** using Python and Scikit-learn.
+An exploratory data analysis project focused on understanding unemployment trends and patterns using Python.
 
+Key Concepts:
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Trend Analysis
+- Python
+
+Notebook: "2_task (1).ipynb"
+
+---
+
+🔹 Task 3 – Car Price Prediction with Machine Learning
+
+A machine learning project that focuses on predicting car prices using relevant features from a car dataset.
+
+Key Concepts:
+
+- Data Preprocessing
+- Feature Selection
+- Regression
+- Machine Learning
+- Model Evaluation
+
+Notebook: "task_3_cars.ipynb"
+
+---
+
+🔹 Task 4 – Email/SMS Spam Detection
+
+A Natural Language Processing and machine learning project that classifies messages as Spam or Ham (Legitimate).
+
+Key Concepts:
+
+- Natural Language Processing (NLP)
+- Text Preprocessing
+- TF-IDF
+- Classification
+- Model Evaluation
+
+Notebook: "46_Email_Spam_Detection.ipynb"
+
+---
+
+🔹 Task 5 – Sales Prediction Using Python
+
+A regression project that predicts sales based on advertising expenditure across different channels.
+
+Features:
+
+- TV
+- Radio
+- Newspaper
+
+Key Concepts:
+
+- Exploratory Data Analysis
+- Data Visualization
+- Linear Regression
+- Random Forest Regression
+- MAE
+- RMSE
+- R² Score
+- Feature Importance
+
+Notebook: "46Task_5_Sales_Prediction.ipynb"
+
+---
+
+🛠️ Technologies Used
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- NLTK
+- Machine Learning
+- Natural Language Processing
+
+---
+
+📂 Repository Structure
+
+OIBSIP/
+│
+├── 46(1)Iris_Flower_Classification.ipynb
+├── 2_task (1).ipynb
+├── task_3_cars.ipynb
+├── 46_Email_Spam_Detection.ipynb
+├── 46Task_5_Sales_Prediction.ipynb
+│
+└── README.md
+
+---
+
+🎯 Internship Objective
+
+The main objective of this internship is to gain practical experience in Data Science and Machine Learning by working with real-world datasets and applying different analytical and predictive techniques.
+
+Through these projects, I gained hands-on experience in:
+
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Machine Learning
+- Classification
+- Regression
+- Natural Language Processing
+- Model Evaluation
+
+---
+
+👨‍💻 Internship Details
+
+Organization: Oasis Infobyte
+Program: Data Science Internship
+Repository: OIBSIP
+
+---
+
+⭐ Conclusion
+
+These projects represent my practical learning journey during the Oasis Infobyte Data Science Internship. Each task provided experience with a different part of the Data Science workflow, from exploring and visualizing data to building and evaluating machine learning models.
+
+I look forward to continuing to develop my skills in Data Science, Machine Learning, and Artificial Intelligence.
